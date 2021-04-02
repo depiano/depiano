@@ -1,4 +1,3 @@
-### Hi there 👋
 I graduated with honors in Computer Science at the University of Salerno. 
 I won two research grants in the IT field (2018-2020). 
 I really like the new technologies and methodologies used in software development.
