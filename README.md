@@ -8,4 +8,4 @@
 - I am very skilled in Java SE/EE, Spring-Boot, Java RMI, Angular6+, HTML5/CCS3/JS, TypeScript, SQL, MongoDB, Ionic5+, Cordova, Firebase, Git and PHP7+.
 - I am able to work back-end and front-end.
 
-### <samp>&gt; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-de-piano-4993068a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-de-piano-4993068a/)
